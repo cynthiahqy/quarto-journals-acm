@@ -1,0 +1,13 @@
+author:
+  - name: Cynthia A. Huang
+    orcid: 0000-0002-9218-987X
+    email: cynthia.huang@monash.edu
+    affiliations:
+      - ref: monash
+affiliations:
+  - id: monash
+    name:  Monash University
+    department: Econometrics and Business Statistics
+    city: Melbourne
+    region: VIC
+    country: Australia
